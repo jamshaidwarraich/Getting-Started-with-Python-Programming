@@ -10,7 +10,7 @@ An open-source web application that allows us to create and share documents that
 ## GoogleCollab
 Google Colab (Collaboratory) is a cloud-based Jupyter Notebook environment provided by Google. It provides free access to "GPU" (Graphics processing unit) and "TPU" (Tensor Processing Unit) resources, making it an excellent choice for machine learning and deep learning projects.
 
-# Prerequisites
+## Prerequisites
 1.  A Google Account (required to use Google Colab).
 2.  A modern web browser (Google Chrome is recommended for best performance).
 
