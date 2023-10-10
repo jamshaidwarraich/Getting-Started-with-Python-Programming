@@ -19,4 +19,5 @@ Google Colab (Collaboratory) is a cloud-based Jupyter Notebook environment provi
 2.  Installation of Anaconda and setting up Jupyter Notebook within the Anaconda environment.
    ## Download and Install Anaconda
    1.   Visit Anaconda download page, https://www.anaconda.com/download
-   2.   Choose the appropriate Anaconda distribution for your operating system (Windows, macOS, or Linux). Select the Python 3.x version (e.g., Python 3.7) as it is recommended for most users. 
+   2.   Choose the appropriate Anaconda distribution for your operating system (Windows, macOS, or Linux). Select the Python 3.x version (e.g., Python 3.7) as it is recommended for most users.
+   3.   Download and proceed with the installation. 
