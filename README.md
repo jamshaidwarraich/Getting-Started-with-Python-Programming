@@ -4,10 +4,10 @@ Welcome to the world of Python programming! Python is a beginner-friendly progra
 
 ## Python-programming-using-JupyterNotebook-&-GoogleColab
 
-## JupyterNotebook
+### JupyterNotebook
 An open-source web application that allows us to create and share documents that contain live-code, equations, visualizations, and narrative text. 
 
-## GoogleCollab
+### GoogleCollab
 Google Colab (Collaboratory) is a cloud-based Jupyter Notebook environment provided by Google. It provides free access to "GPU" (Graphics processing unit) and "TPU" (Tensor Processing Unit) resources, making it an excellent choice for machine learning and deep learning projects.
 
 ## Prerequisites
